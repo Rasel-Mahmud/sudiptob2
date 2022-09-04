@@ -1,9 +1,10 @@
 ## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
 
 <p align="left">
-  <a href="https://leetcode.com/sudiptob2/">
-    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
-  </a>
+[![mail][mail-shield]][mail-url]
+[![website][website-shield]][website-url]
+[![Facebook][facebook-shield]][facebook-group-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
   <a href="https://codeforces.com/profile/sudipto.me">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
@@ -80,3 +81,11 @@
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
+[website-shield] : https://img.shields.io/badge/Portfolio-Website-orange
+[website-url]: https://rasel-portfolio.com
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
+[facebook-url]: https://www.facebook.com/rasel.rs
+[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
+[mail-url]: mailto:rasel.wp@gmail.com
+[linkedin-url]: https://www.linkedin.com/in/rasel-wp/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
